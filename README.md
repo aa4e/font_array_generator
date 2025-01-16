@@ -1,4 +1,4 @@
-Generating byte arrays for LED panels, managing by microcontrollers (Arduino etc). Also, application allows convert back from byte array to pixel symbol.
+Generating byte arrays for LED panels, managing by microcontrollers (Arduino etc). Also, convert back from byte array to pixel symbol allowed.
 
 ## Features:
 - Generating byte array for microcontroller for uploading to a LED matrix
