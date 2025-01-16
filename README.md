@@ -5,3 +5,7 @@ Generating byte arrays for LED panels, managing by microcontrollers (Arduino etc
 - Conversion from byte array to symbol
 - Changeable symbol dimensions
 - Binary, hexadecimal and decimal presentation
+
+Example of usage:
+
+<img src='font_gen_scr.png' />
